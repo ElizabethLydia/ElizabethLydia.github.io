@@ -57,8 +57,10 @@
         order: 2;
         img {
             max-width: 400px;
+            aspect-ratio: 4 / 3;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            border-radius: 6px;
         }
     }
     
