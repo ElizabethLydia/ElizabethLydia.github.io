@@ -38,7 +38,7 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 # Selected Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Imaging AI</div><img src='images/thyroid_detection.png' alt="Thyroid ultrasound AI detection result" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Imaging AI</div><img src='images/thyroid_framework.png' alt="Overall framework of the ultrasound thyroid nodule detection and classification system" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI-driven thyroid ultrasound video diagnosis**
@@ -50,7 +50,7 @@ Developed a YOLOv12 + SimCLR framework for thyroid ultrasound video diagnosis un
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pathology Foundation Model</div><img src='images/titan_pathology_schematic.png' alt="Pathology foundation model schematic" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pathology Foundation Model</div><img src='images/pathology_framework.png' alt="Pathology foundation model framework for thyroid FNA risk stratification" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TITAN pathology foundation model for thyroid FNA risk stratification**
@@ -62,7 +62,7 @@ Contributed to a foundation-model-based framework for Bethesda III-IV thyroid cy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physiological Sensing</div><img src='images/blood_pressure_experiment.png' alt="Smartphone blood pressure experiment setup" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physiological Sensing</div><img src='images/ptt_bp_framework.png' alt="Pipeline for smartphone dual-camera blood pressure screening" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Contactless physiological sensing with smartphones**
@@ -71,6 +71,18 @@ Developed smartphone-based pipelines for non-contact blood pressure and SpO2 mon
 
 - IEEE EMBC 2025 paper as second author.
 - Chinese invention patent granted as first student inventor.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpO2 Estimation</div><img src='images/ppg_spo2_framework.png' alt="Smartphone PPG SpO2 calibration and estimation framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Smartphone PPG-based SpO2 calibration**
+
+Designed a smartphone-based SpO2 estimation framework that extracts face and finger PPG signals, separates AC/DC components, and performs personalized ratio-of-ratios calibration.
+
+- Key contribution: AC-DC calibration strategy for more robust non-contact oxygen saturation estimation.
+- Output: Chinese invention patent granted as first student inventor.
 </div>
 </div>
 

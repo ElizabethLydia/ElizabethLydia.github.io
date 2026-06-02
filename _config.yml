@@ -23,12 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingyu Fu"
   avatar           : "images/jingyu-fu.jpg"
-  bio              : "Biomedical Engineering, SUSTech"
+  bio              : "Southern University of Science and Technology"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    :
   email            : "fujy2023@mail.sustech.edu.cn"
+  cv               : "files/cv_en.pdf"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
