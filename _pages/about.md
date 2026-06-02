@@ -18,9 +18,10 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 # News
 
-- *2026.06*: Preparing graduate applications and summer-program communications for 2027 postgraduate admission.
-- *2026.05*: TITAN pathology foundation-model manuscript for thyroid FNA risk stratification is under major revision.
-- *2026*: First-author thyroid ultrasound AI work is available as a ChinaXiv preprint / manuscript.
+- *2026.05*: First-author thyroid ultrasound AI manuscript accepted by ChinaXiv as **ChinaXiv:202605.00048v1**.
+- *2026*: TITAN pathology foundation-model manuscript for thyroid FNA risk stratification was revised and resubmitted.
+- *2025.12*: Received the **Zhixin Dean's Award**, the highest honor of Zhixin College, SUSTech.
+- *2025.11*: Received the **First-Class Outstanding Student Scholarship** at SUSTech.
 - *2025.06*: Granted a Chinese invention patent as first student inventor for non-contact SpO2 monitoring based on smartphone DC calibration.
 - *2025*: Paper on smartphone dual-camera blood pressure screening accepted by **IEEE EMBC 2025**.
 
@@ -28,9 +29,9 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 1. Q. Wei, **Jingyu Fu**, et al. Smartphone Dual-Camera Based Blood Pressure Screening Using Pulse Transit Time between Ear and Finger. **IEEE EMBC**, 2025. [[DOI](https://doi.org/10.1109/EMBC58623.2025.11252747)]
 
-2. **Jingyu Fu** (First Author), et al. Enhancing Thyroid Ultrasound Diagnosis under Severe Class Imbalance. ChinaXiv preprint / manuscript, 2026.
+2. **Jingyu Fu** (First Author), et al. Video-level Thyroid Ultrasound Diagnosis via Detection, Self-supervised Representation Learning, and Web-based Visualization. **ChinaXiv**, 2026. [[PDF](https://chinaxiv.org/businessFile/202605/202605.00048v1/202605.00048v1.pdf)] [[ChinaXiv:202605.00048v1](https://chinaxiv.org/)]
 
-3. L. Shang, Y. Huang, X. Feng, **Jingyu Fu**, et al. Foundation model-based framework for risk stratification of cytologically indeterminate thyroid nodules. Under major revision, 2026.
+3. L. Shang, Y. Huang, X. Feng, **Jingyu Fu**, et al. Foundation model-based framework for risk stratification of cytologically indeterminate thyroid nodules. Revised and resubmitted, 2026.
 
 4. **Jingyu Fu** (First Student Inventor), et al. Non-contact SpO2 monitoring method and system based on smartphone DC calibration. Chinese invention patent granted.
 
@@ -46,7 +47,7 @@ My current work focuses on clinically meaningful AI systems that connect model d
 Developed a YOLOv12 + SimCLR framework for thyroid ultrasound video diagnosis under severe class imbalance. The system integrates lesion detection, representation learning, temporal aggregation, and a Flask + React clinical review workflow.
 
 - Key result: malignant recall up to **90.6%**.
-- Current status: first-author ChinaXiv preprint / manuscript; invention patent under review.
+- Current status: first-author ChinaXiv preprint (**ChinaXiv:202605.00048v1**); invention patent under review.
 </div>
 </div>
 
@@ -58,7 +59,7 @@ Developed a YOLOv12 + SimCLR framework for thyroid ultrasound video diagnosis un
 Contributed to a foundation-model-based framework for Bethesda III-IV thyroid cytology risk stratification. The project targets clinically challenging indeterminate nodules and emphasizes interpretable, high-confidence risk stratification.
 
 - Key result: AUC **0.948** for thyroid FNA risk stratification.
-- Current status: manuscript under major revision.
+- Current status: revised and resubmitted.
 </div>
 </div>
 
@@ -86,7 +87,7 @@ Designed a smartphone-based SpO2 estimation framework that extracts face and fin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimodal Diagnosis</div><img src='images/perfusion.png' alt="Perfusion heatmap for PAD diagnosis" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimodal Diagnosis</div><img src='images/pad_framework.png' alt="PAD multimodal auxiliary diagnosis framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PAD multimodal auxiliary diagnosis device**
@@ -110,12 +111,21 @@ Participated as a core member in a lower-limb arterial obstruction diagnostic de
 
 # Honors and Awards
 
-- *2026*: Comprehensive evaluation ranking **3/259 (Top 1.2%)**.
-- *2025*: **Zhixin Dean's Award**, the highest honor of Zhixin College, SUSTech.
-- *2025*: **First-Class Outstanding Student Scholarship**, SUSTech.
-- *2025*: Mathematical Contest in Modeling, **Meritorious Winner**.
-- *2025*: China Undergraduate Mathematical Contest in Modeling, **Provincial First Prize**.
-- *2025*: Challenge Cup Guangdong Provincial Third Prize; Guangdong Climbing Program funding.
+- *2025.12*: **Zhixin Dean's Award**, the highest honor of Zhixin College, SUSTech; only one recipient in the college.
+- *2025.11*: **First-Class Outstanding Student Scholarship**, SUSTech; comprehensive evaluation ranking **3/259 (Top 1.2%)**.
+- *2025.11*: **Excellent Student Cadre Model**, SUSTech; among 7 university-wide recipients.
+- *2025.07*: **Challenge Cup Guangdong Provincial Third Prize** for a PAD multimodal auxiliary diagnosis project.
+- *2025.05*: Mathematical Contest in Modeling, **Meritorious Winner**.
+- *2025.12*: China Undergraduate Mathematical Contest in Modeling, **Provincial First Prize**.
+- *2026.04*: **Outstanding Volunteer**, SUSTech.
+- *2024.11*: **Second-Class Outstanding Student Scholarship**, SUSTech.
+
+# Service and Leadership
+
+- Student cadre and peer leader, Zhixin College, SUSTech; recognized as an **Excellent Student Cadre Model** and **Outstanding Student Cadre**.
+- Student organization member in Zhixin College, contributing to student development and academic-support activities.
+- Leader of a Zhixin College student club / ensemble; recognized as an **Outstanding Student Club Leader**.
+- Participant in SUSTech outreach and volunteer activities; recognized as an **Outstanding Volunteer** and an outstanding individual in alumni-school outreach.
 
 # Education
 
