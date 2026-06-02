@@ -34,7 +34,7 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 3. L. Shang, Y. Huang, X. Feng, **Jingyu Fu**, et al. Foundation model-based framework for risk stratification of cytologically indeterminate thyroid nodules. Revised and resubmitted, 2026.
 
-4. **Jingyu Fu** (First Student Inventor), et al. Non-contact SpO2 monitoring method and system based on smartphone DC calibration. Chinese invention patent granted.
+4. W. Wang, **Jingyu Fu**, H. Lai. 基于手机直流分量校准的非接触式血氧监测方法及系统 [Method and system for non-contact SpO2 monitoring based on smartphone DC component calibration]. Chinese invention patent, **ZL 2025 1 1080860.5 / CN120585325B**, filed Aug. 4, 2025, granted Nov. 11, 2025. [[Google Patents](https://patents.google.com/patent/CN120585325B/zh)] [[CNIPA Public Service](https://ggfw.cnipa.gov.cn/)]
 
 5. **Jingyu Fu**, et al. Thyroid ultrasound AI-related invention patent. Patent under review.
 
@@ -86,11 +86,13 @@ Developed smartphone-based pipelines for non-contact blood pressure and SpO2 mon
 Designed a smartphone-based SpO2 estimation framework that extracts face and finger PPG signals, separates AC/DC components, and performs personalized ratio-of-ratios calibration.
 
 - Key contribution: AC-DC calibration strategy for more robust non-contact oxygen saturation estimation.
-- Output: Chinese invention patent granted as first student inventor.
+- Output: Chinese invention patent granted, **ZL 2025 1 1080860.5 / CN120585325B**, granted Nov. 11, 2025. [[Google Patents](https://patents.google.com/patent/CN120585325B/zh)]
 </div>
 </div>
 
-<div class='paper-box' id='pad-diagnosis'><div class='paper-box-image'><div><div class="badge">Multimodal Diagnosis</div><img src='images/pad_framework.png' alt="PAD multimodal auxiliary diagnosis framework" width="100%"></div></div>
+# Computational Modeling and Competitions
+
+<div class='paper-box' id='challenge-cup-pad'><div class='paper-box-image'><div><div class="badge">Challenge Cup</div><img src='images/pad_framework.png' alt="PAD multimodal auxiliary diagnosis framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PAD multimodal auxiliary diagnosis device**
@@ -101,8 +103,6 @@ Participated as a core member in a lower-limb arterial obstruction diagnostic de
 - Awards: Challenge Cup Guangdong Provincial Third Prize and Guangdong Climbing Program support.
 </div>
 </div>
-
-# Computational Modeling and Competitions
 
 <div class='paper-box' id='mcm-modeling'><div class='paper-box-image'><div><div class="badge">Mathematical Modeling</div><img src='images/mcm_framework.png' alt="MCM modeling framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
