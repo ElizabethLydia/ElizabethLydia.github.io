@@ -20,8 +20,9 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 - *2026.05*: First-author thyroid ultrasound AI manuscript accepted by ChinaXiv as **ChinaXiv:202605.00048v1**.
 - *2026*: TITAN pathology foundation-model manuscript for thyroid FNA risk stratification was revised and resubmitted.
-- *2025.12*: Received the **Zhixin Dean's Award**, the highest honor of Zhixin College, SUSTech.
+- *2025.12*: Received the **Zhiren Dean's Award**, the highest honor of Zhiren College, SUSTech.
 - *2025.11*: Received the **First-Class Outstanding Student Scholarship** at SUSTech.
+- *2025.11*: Named **Excellent Student Cadre Model** at SUSTech, among 7 university-wide recipients.
 - *2025.06*: Granted a Chinese invention patent as first student inventor for non-contact SpO2 monitoring based on smartphone DC calibration.
 - *2025*: Paper on smartphone dual-camera blood pressure screening accepted by **IEEE EMBC 2025**.
 
@@ -39,7 +40,7 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 # Selected Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Imaging AI</div><img src='images/thyroid_framework.png' alt="Overall framework of the ultrasound thyroid nodule detection and classification system" width="100%"></div></div>
+<div class='paper-box' id='thyroid-ultrasound'><div class='paper-box-image'><div><div class="badge">Medical Imaging AI</div><img src='images/thyroid_framework.png' alt="Overall framework of the ultrasound thyroid nodule detection and classification system" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI-driven thyroid ultrasound video diagnosis**
@@ -48,10 +49,11 @@ Developed a YOLOv12 + SimCLR framework for thyroid ultrasound video diagnosis un
 
 - Key result: malignant recall up to **90.6%**.
 - Current status: first-author ChinaXiv preprint (**ChinaXiv:202605.00048v1**); invention patent under review.
+- Links: [ChinaXiv PDF](https://chinaxiv.org/businessFile/202605/202605.00048v1/202605.00048v1.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pathology Foundation Model</div><img src='images/pathology_framework.png' alt="Pathology foundation model framework for thyroid FNA risk stratification" width="100%"></div></div>
+<div class='paper-box' id='pathology-foundation-model'><div class='paper-box-image'><div><div class="badge">Pathology Foundation Model</div><img src='images/pathology_framework.png' alt="Pathology foundation model framework for thyroid FNA risk stratification" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TITAN pathology foundation model for thyroid FNA risk stratification**
@@ -63,7 +65,7 @@ Contributed to a foundation-model-based framework for Bethesda III-IV thyroid cy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physiological Sensing</div><img src='images/ptt_bp_framework.png' alt="Pipeline for smartphone dual-camera blood pressure screening" width="100%"></div></div>
+<div class='paper-box' id='blood-pressure-sensing'><div class='paper-box-image'><div><div class="badge">Physiological Sensing</div><img src='images/ptt_bp_framework.png' alt="Pipeline for smartphone dual-camera blood pressure screening" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Contactless physiological sensing with smartphones**
@@ -72,10 +74,11 @@ Developed smartphone-based pipelines for non-contact blood pressure and SpO2 mon
 
 - IEEE EMBC 2025 paper as second author.
 - Chinese invention patent granted as first student inventor.
+- Links: [EMBC paper](https://doi.org/10.1109/EMBC58623.2025.11252747), [code](https://github.com/ElizabethLydia/ppg2bp).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpO2 Estimation</div><img src='images/ppg_spo2_framework.png' alt="Smartphone PPG SpO2 calibration and estimation framework" width="100%"></div></div>
+<div class='paper-box' id='spo2-calibration'><div class='paper-box-image'><div><div class="badge">SpO2 Estimation</div><img src='images/ppg_spo2_framework.png' alt="Smartphone PPG SpO2 calibration and estimation framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Smartphone PPG-based SpO2 calibration**
@@ -87,7 +90,7 @@ Designed a smartphone-based SpO2 estimation framework that extracts face and fin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimodal Diagnosis</div><img src='images/pad_framework.png' alt="PAD multimodal auxiliary diagnosis framework" width="100%"></div></div>
+<div class='paper-box' id='pad-diagnosis'><div class='paper-box-image'><div><div class="badge">Multimodal Diagnosis</div><img src='images/pad_framework.png' alt="PAD multimodal auxiliary diagnosis framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PAD multimodal auxiliary diagnosis device**
@@ -101,17 +104,17 @@ Participated as a core member in a lower-limb arterial obstruction diagnostic de
 
 # Selected Projects
 
-- **RingTool reproduction and ONNX deployment**: Reproduced Tsinghua PI Lab's RingTool intelligent ring monitoring framework and converted PyTorch models to ONNX for lightweight deployment.
+- **RingTool reproduction and ONNX deployment**: Reproduced Tsinghua Pervasive HCI Lab's RingTool benchmark toolkit for ring-based cardiovascular metrics and converted PyTorch models to ONNX for lightweight deployment. [[my reproduction](https://github.com/ElizabethLydia/RingTool)] [[original repository](https://github.com/thuhci/RingTool)]
 
-- **Medical Web platform development**: Built Flask + React workflows for medical AI review, emphasizing clinical usability, interpretability, and deployment readiness.
+- **Medical Web platform development**: Built Flask + React workflows for medical AI review, emphasizing clinical usability, interpretability, and deployment readiness. [[repository](https://github.com/ElizabethLydia/PI_Lab)]
 
-- **SpO2 signal processing**: Designed smartphone-based signal-processing pipelines for AC-DC calibration and oxygen-saturation estimation.
+- **PPG-based blood pressure modeling**: Implemented signal-processing and modeling pipelines for PTT-based smartphone blood pressure estimation. [[repository](https://github.com/ElizabethLydia/ppg2bp)]
 
-- **GitHub repositories**: Selected coding projects are available at [github.com/ElizabethLydia](https://github.com/ElizabethLydia).
+- **ImageStyleStudio**: Developed an image style-transfer / processing demo as an open-source programming project. [[repository](https://github.com/ElizabethLydia/ImageStyleStudio)]
 
 # Honors and Awards
 
-- *2025.12*: **Zhixin Dean's Award**, the highest honor of Zhixin College, SUSTech; only one recipient in the college.
+- *2025.12*: **Zhiren Dean's Award**, the highest honor of Zhiren College, SUSTech; only one recipient in the college.
 - *2025.11*: **First-Class Outstanding Student Scholarship**, SUSTech; comprehensive evaluation ranking **3/259 (Top 1.2%)**.
 - *2025.11*: **Excellent Student Cadre Model**, SUSTech; among 7 university-wide recipients.
 - *2025.07*: **Challenge Cup Guangdong Provincial Third Prize** for a PAD multimodal auxiliary diagnosis project.
@@ -122,9 +125,10 @@ Participated as a core member in a lower-limb arterial obstruction diagnostic de
 
 # Service and Leadership
 
-- Student cadre and peer leader, Zhixin College, SUSTech; recognized as an **Excellent Student Cadre Model** and **Outstanding Student Cadre**.
-- Student organization member in Zhixin College, contributing to student development and academic-support activities.
-- Leader of a Zhixin College student club / ensemble; recognized as an **Outstanding Student Club Leader**.
+- Chair, Academic Affairs Committee, Zhiren College, SUSTech.
+- Class Youth League Branch Secretary, SUSTech.
+- Head, Zhiren Chinese Traditional Music Ensemble; recognized as an **Outstanding Student Club Leader**.
+- Peer mentor / senior student advisor, Zhiren College, SUSTech.
 - Participant in SUSTech outreach and volunteer activities; recognized as an **Outstanding Volunteer** and an outstanding individual in alumni-school outreach.
 
 # Education
