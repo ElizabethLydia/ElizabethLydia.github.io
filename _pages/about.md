@@ -74,7 +74,7 @@ Developed smartphone-based pipelines for non-contact blood pressure and SpO2 mon
 
 - IEEE EMBC 2025 paper as second author.
 - Chinese invention patent granted as first student inventor.
-- Links: [EMBC paper](https://doi.org/10.1109/EMBC58623.2025.11252747), [code](https://github.com/ElizabethLydia/ppg2bp).
+- Link: [EMBC paper](https://doi.org/10.1109/EMBC58623.2025.11252747).
 </div>
 </div>
 
@@ -102,15 +102,41 @@ Participated as a core member in a lower-limb arterial obstruction diagnostic de
 </div>
 </div>
 
+# Computational Modeling and Competitions
+
+<div class='paper-box' id='mcm-modeling'><div class='paper-box-image'><div><div class="badge">Mathematical Modeling</div><img src='images/mcm_framework.png' alt="MCM modeling framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mathematical Contest in Modeling**
+
+Built a modeling pipeline for medal prediction, analysis of the "great coach" effect, and additional insight generation using regression, random forest, uncertainty estimation, and interpretive analysis.
+
+- Award: **Meritorious Winner** in MCM/ICM.
+- Focus: predictive modeling, uncertainty estimation, and structured insight extraction.
+</div>
+</div>
+
+<div class='paper-box' id='cumcm-modeling'><div class='paper-box-image'><div><div class="badge">Optimization Modeling</div><img src='images/cumcm_framework.png' alt="CUMCM modeling framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**China Undergraduate Mathematical Contest in Modeling**
+
+Designed a multi-regression optimization framework for pregnancy-related risk analysis, including correlation modeling, clustering, LASSO regression, logistic modeling, and threshold design.
+
+- Award: **Provincial First Prize** in CUMCM.
+- Focus: statistical modeling, optimization, clustering, and risk stratification.
+</div>
+</div>
+
 # Selected Projects
 
 - **RingTool reproduction and ONNX deployment**: Reproduced Tsinghua Pervasive HCI Lab's RingTool benchmark toolkit for ring-based cardiovascular metrics and converted PyTorch models to ONNX for lightweight deployment. [[my reproduction](https://github.com/ElizabethLydia/RingTool)] [[original repository](https://github.com/thuhci/RingTool)]
 
-- **Medical Web platform development**: Built Flask + React workflows for medical AI review, emphasizing clinical usability, interpretability, and deployment readiness. [[repository](https://github.com/ElizabethLydia/PI_Lab)]
-
-- **PPG-based blood pressure modeling**: Implemented signal-processing and modeling pipelines for PTT-based smartphone blood pressure estimation. [[repository](https://github.com/ElizabethLydia/ppg2bp)]
-
 - **ImageStyleStudio**: Developed an image style-transfer / processing demo as an open-source programming project. [[repository](https://github.com/ElizabethLydia/ImageStyleStudio)]
+
+- **2048 game project**: Implemented a browser-based 2048 game project with interactive logic and front-end rendering. [[repository](https://github.com/ElizabethLydia/CS109_project2048)]
+
+- **Selected GitHub repositories**: Additional public coding projects are available at [github.com/ElizabethLydia](https://github.com/ElizabethLydia).
 
 # Honors and Awards
 
