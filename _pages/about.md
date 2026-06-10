@@ -18,7 +18,7 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 # News
 
-- *2026.05*: First-author thyroid ultrasound AI manuscript accepted by ChinaXiv as **ChinaXiv:202605.00048v1**.
+- *2026.05*: A first-author paper entitled "Video-level Thyroid Ultrasound Diagnosis via Detection, Self-supervised Representation Learning, and Web-based Visualization" has been released on **ChinaXiv** (**ChinaXiv:202605.00048v1**).
 - *2026*: Pathology foundation-model manuscript revised and resubmitted to **Modern Pathology** (MODPATH-D-26-00161).
 - *2025.12*: Received the **Zhiren Dean's Award**, the highest honor of Zhiren College, SUSTech.
 - *2025.11*: Received the **First-Class Outstanding Student Scholarship** at SUSTech.
