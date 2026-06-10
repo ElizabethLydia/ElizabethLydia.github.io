@@ -19,7 +19,7 @@ My current work focuses on clinically meaningful AI systems that connect model d
 # News
 
 - *2026.05*: First-author thyroid ultrasound AI manuscript accepted by ChinaXiv as **ChinaXiv:202605.00048v1**.
-- *2026*: TITAN pathology foundation-model manuscript for thyroid FNA risk stratification was revised and resubmitted.
+- *2026*: Pathology foundation-model manuscript revised and resubmitted to **Modern Pathology** (MODPATH-D-26-00161).
 - *2025.12*: Received the **Zhiren Dean's Award**, the highest honor of Zhiren College, SUSTech.
 - *2025.11*: Received the **First-Class Outstanding Student Scholarship** at SUSTech.
 - *2025.11*: Named **Excellent Student Cadre Model** at SUSTech, among 7 university-wide recipients.
@@ -32,7 +32,7 @@ My current work focuses on clinically meaningful AI systems that connect model d
 
 2. **Jingyu Fu** (First Author), et al. Video-level Thyroid Ultrasound Diagnosis via Detection, Self-supervised Representation Learning, and Web-based Visualization. **ChinaXiv**, 2026. [[PDF](https://chinaxiv.org/businessFile/202605/202605.00048v1/202605.00048v1.pdf)] [[ChinaXiv:202605.00048v1](https://chinaxiv.org/)]
 
-3. L. Shang, Y. Huang, X. Feng, **Jingyu Fu**, et al. Foundation model-based framework for risk stratification of cytologically indeterminate thyroid nodules. Revised and resubmitted, 2026.
+3. L. Shang, Y. Huang, X. Feng, **Jingyu Fu**, et al. A Pathology Foundation Model-Based Dual-Probability Framework for Risk Stratification and Clinical Triage of Cytologically Indeterminate Thyroid Nodules. Revised and resubmitted to **Modern Pathology** (MODPATH-D-26-00161), 2026.
 
 4. W. Wang, **Jingyu Fu**, H. Lai. 基于手机直流分量校准的非接触式血氧监测方法及系统 [Method and system for non-contact SpO2 monitoring based on smartphone DC component calibration]. Chinese invention patent, **ZL 2025 1 1080860.5 / CN120585325B**, filed Aug. 4, 2025, granted Nov. 11, 2025. [[Google Patents](https://patents.google.com/patent/CN120585325B/zh)] [[CNIPA Public Service](https://ggfw.cnipa.gov.cn/)]
 
@@ -56,12 +56,12 @@ Developed a YOLOv12 + SimCLR framework for thyroid ultrasound video diagnosis un
 <div class='paper-box' id='pathology-foundation-model'><div class='paper-box-image'><div><div class="badge">Pathology Foundation Model</div><img src='images/pathology_framework.png' alt="Pathology foundation model framework for thyroid FNA risk stratification" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**TITAN pathology foundation model for thyroid FNA risk stratification**
+**Pathology foundation model-based dual-probability framework for thyroid FNA triage**
 
 Contributed to a foundation-model-based framework for Bethesda III-IV thyroid cytology risk stratification. The project targets clinically challenging indeterminate nodules and emphasizes interpretable, high-confidence risk stratification.
 
 - Key result: AUC **0.948** for thyroid FNA risk stratification.
-- Current status: revised and resubmitted.
+- Current status: revised and resubmitted to **Modern Pathology** (MODPATH-D-26-00161).
 </div>
 </div>
 
