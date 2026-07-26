@@ -10,15 +10,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in **Biomedical Engineering (Intelligent Medical Engineering)** at the **Southern University of Science and Technology (SUSTech)**. My research interests lie in **medical AI**, **multimodal medical imaging**, **pathology foundation models**, and **contactless physiological sensing**.
+I am an undergraduate student in **Biomedical Engineering (Intelligent Medical Engineering)** at the **Southern University of Science and Technology (SUSTech)**. My research interests lie in **medical AI**, **multimodal medical imaging**, **point cloud-guided medical image registration**, **pathology foundation models**, and **contactless physiological sensing**.
 
-My current work focuses on clinically meaningful AI systems that connect model design with deployable medical workflows. I have worked on thyroid ultrasound video diagnosis, cytology/pathology risk stratification, smartphone-based physiological sensing, and full-stack medical review platforms.
+My current work focuses on clinically meaningful AI systems that connect model design with deployable medical workflows. I have worked on longitudinal lung CT registration, thyroid ultrasound video diagnosis, cytology/pathology risk stratification, smartphone-based physiological sensing, and full-stack medical review platforms.
 
-**Research keywords:** Medical AI / Multimodal Medical Imaging / Pathology Foundation Models / Contactless Physiological Sensing / Clinical Decision Support
+**Research keywords:** Medical AI / Multimodal Medical Imaging / Medical Image Registration / Point Cloud Analysis / Pathology Foundation Models / Contactless Physiological Sensing / Clinical Decision Support
 
 # News
 
 - *2026.05*: A first-author paper entitled "Video-level Thyroid Ultrasound Diagnosis via Detection, Self-supervised Representation Learning, and Web-based Visualization" has been released on **ChinaXiv** (**ChinaXiv:202605.00048v1**).
+- *2026*: Started medical imaging research internship at **Heilongjiang Tuomeng Technology Co., Ltd.**, working on point cloud-guided longitudinal lung CT registration for anatomically non-corresponding scenarios.
 - *2026*: Pathology foundation-model manuscript revised and resubmitted to **Modern Pathology** (MODPATH-D-26-00161).
 - *2025.12*: Received the **Zhiren Dean's Award**, the highest honor of Zhiren College, SUSTech.
 - *2025.11*: Received the **First-Class Outstanding Student Scholarship** at SUSTech.
@@ -160,12 +161,15 @@ Designed a multi-regression optimization framework for pregnancy-related risk an
 # Education
 
 - *2023 - Present*, **Southern University of Science and Technology**, Department of Biomedical Engineering, Intelligent Medical Engineering.
-  - Cumulative GPA: **3.81/4.0** (major rank 14/49)
-  - Academic-year GPA: **3.92/4.0** (major rank 1)
+  - Cumulative GPA: **3.84/4.0** (overall rank 13/49)
+  - Academic-year GPA: **3.94/4.0** (major rank 1/49)
+  - Comprehensive evaluation ranking: **3/259** (Top 1.2%)
   - Junior-year fall GPA: **3.94/4.0**
   - IELTS: **7.0**
 
 # Internships
+
+- *2026 - Present*, **Heilongjiang Tuomeng Technology Co., Ltd.**, Medical Imaging Research Intern. Working on point cloud-guided longitudinal lung CT registration for anatomically non-corresponding scenarios; representing airway, vascular, and lobar landmarks as semantic point clouds to support landmark matching, inconsistency detection, and deformation-field construction.
 
 - *2026*, **Pervasive Interaction Lab, Tsinghua University**. Reproduced RingTool intelligent ring monitoring framework and completed PyTorch-to-ONNX deployment; reflected on cross-subject generalization limitations in PTT-based blood pressure prediction.
 
